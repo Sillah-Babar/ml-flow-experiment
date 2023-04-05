@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ml-flow-experiment/mlflow-example/mlruns/0/823d3710829a46d4844bb8956b365b6c/artifacts
+end_time: 1680669089537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 823d3710829a46d4844bb8956b365b6c
+run_name: languid-elk-566
+run_uuid: 823d3710829a46d4844bb8956b365b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680669085405
+status: 3
+tags: []
+user_id: sillah
