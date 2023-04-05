@@ -1,8 +1,0 @@
-Flask
-numpy 
-pandas
-pyspark
-scikit-learn
-matplotlib
-mlflow
-urllib3
