@@ -1,0 +1,6 @@
+artifact_location: file:///D:/ml-flow/ml/mlruns/626402363849785334
+creation_time: 1680666383106
+experiment_id: '626402363849785334'
+last_update_time: 1680666383106
+lifecycle_stage: active
+name: mlflow-demo
